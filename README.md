@@ -1,0 +1,2 @@
+# kisebbnagyobbtesztek
+kisebbnagyobbtesztekmehetnekakkormost
